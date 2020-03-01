@@ -1,10 +1,12 @@
 # qmk-config
-QMK keybaord controller resources
+QMK keyboard controller scripts and configs
 
 ## Alt
-*Note: You will have to use another keyboard until loader script is run.*
-Now, press the reset button on the bottom of the keyboard.
-```bash
+Manage configuration files at `/alt/configs` 
+### Usage
+*Note: You will have to use another keyboard until loader script is run.*  
+Press the reset button on the bottom of the keyboard
+```sh
 # navigate to dir
 cd /alt
 # make loader script executable
